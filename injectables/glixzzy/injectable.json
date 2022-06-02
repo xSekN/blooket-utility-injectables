@@ -2,7 +2,7 @@
 	"title": "Glixzzy Scripts",
 	"description": "Add Glixzzy's scripts to the GUI. Learn how to open the GUI by going to https://thatfrueddued.github.io/blooket-utility.",
 	"author": "ThatFredDued, but edited by xSekN",
-	"url": "https://thatfrueddued.github.io/blooket-utility-injectables/injectables/glixzzy/injectable.json",
+	"url": "https://raw.githubusercontent.com/xSekN/blooket-utility-injectables/main/injectables/glixzzy/injectable.json",
 	"scripts": [
 		"https://raw.githubusercontent.com/xSekN/blooket-utility-injectables/main/injectables/glixzzy/gui.js"
 	]
