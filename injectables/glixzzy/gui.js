@@ -11,7 +11,7 @@ async function runScript(path) {
     ).text()
   );
 }
-blooketUtility.api.gui.glixzzy = {
+blooketUtility.api.gui.glixxzzy = {
   title: "Glixzzy",
   ...[
     {
